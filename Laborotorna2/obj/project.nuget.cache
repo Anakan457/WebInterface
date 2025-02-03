@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7mOqqOyYOgIg8WQ+PRLEJ8kncuMU7yTyBIbUOJkEUXSMkr5JEnDtdWHyNYcHBGjlFeGQIwMxqc0x2H9OP1CA1Q==",
+  "success": true,
+  "projectFilePath": "D:\\уник\\2025 весна\\Розробка адаптивних web-інтерфейсів\\Projects\\Laborotorna4\\Laborotorna4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.1\\microsoft.win32.systemevents.9.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.drawing.common\\9.0.1\\system.drawing.common.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
